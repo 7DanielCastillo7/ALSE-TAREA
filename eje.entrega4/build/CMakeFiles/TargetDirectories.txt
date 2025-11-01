@@ -1,0 +1,4 @@
+/home/castillo/Ejercicios-/ALSE-TAREA/eje.entrega4/build/CMakeFiles/carrito_app.dir
+/home/castillo/Ejercicios-/ALSE-TAREA/eje.entrega4/build/CMakeFiles/doc.dir
+/home/castillo/Ejercicios-/ALSE-TAREA/eje.entrega4/build/CMakeFiles/edit_cache.dir
+/home/castillo/Ejercicios-/ALSE-TAREA/eje.entrega4/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/carrito_app.dir/src/main.cpp.o CMakeFiles/carrito_app.dir/src/Producto.cpp.o CMakeFiles/carrito_app.dir/src/CarritoCompras.cpp.o CMakeFiles/carrito_app.dir/src/Usuario.cpp.o -o carrito_app 
